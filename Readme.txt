@@ -1,1 +1,0 @@
-A program to take an array as input from user (size being decided by the user). Calculate the number of even entries in the array, average of the entries and the greatest number of the array. Use separate functions to calculate each of the result.
